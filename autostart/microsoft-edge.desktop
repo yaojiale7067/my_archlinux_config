@@ -1,5 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Microsoft Edge
-Exec=/usr/bin/microsoft-edge-stable %U
-Icon=microsoft-edge
