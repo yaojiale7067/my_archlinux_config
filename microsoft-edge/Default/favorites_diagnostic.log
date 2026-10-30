@@ -1,0 +1,312 @@
+2026-09-18 13:09:53.385: [INFO] CurrentProfilePath: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-18 13:09:53.385: [INFO] Profiles total count: 1
+2026-09-18 13:09:53.385: [INFO] Profile: name=用户配置 1 path=/home/yaojiale/.config/microsoft-edge/Default lastActive=null
+2026-09-18 13:09:53.385: [INFO] LastUsedProfileDir: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-18 13:09:53.385: [INFO] OnDoneLoading sync enabled: 0
+2026-09-18 13:09:53.385: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 13:09:53.385: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 13:09:53.385: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 13:09:53.732: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-18 13:11:34.702: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-09-18 13:11:34.703: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-09-18 13:11:34.706: [INFO] Primary account changed.
+2026-09-18 13:11:34.706: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-09-18 13:11:43.275: [INFO] VisibilityChanged: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.520: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.521: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.522: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.523: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.524: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.525: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.526: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.527: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.528: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.529: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.529: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.529: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.529: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.529: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.529: [INFO] BookmarkNodeAdded, ABU: 0
+2026-09-18 13:11:49.533: [INFO] BookmarkBarPrefChanged showBar=0 showBarNTP=0
+2026-09-18 13:11:59.577: [INFO] Sync initialization duration: 24867ms
+2026-09-18 13:14:29.857: [INFO] BookmarksSnapshot Shutdown total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-09-18 13:30:25.176: [INFO] CurrentProfilePath: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-18 13:30:25.176: [INFO] Profiles total count: 1
+2026-09-18 13:30:25.176: [INFO] Profile: name=个人 path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-09-18T13:14:29.087Z
+2026-09-18 13:30:25.176: [INFO] LastUsedProfileDir: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-18 13:30:25.176: [INFO] MostRecentlyActiveProfile: name=个人 path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-09-18T13:14:29.087Z
+2026-09-18 13:30:25.176: [INFO] VisibilityChanged: 0
+2026-09-18 13:30:25.198: [INFO] OnDoneLoading sync enabled: 1
+2026-09-18 13:30:25.198: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 13:30:25.198: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 13:30:25.198: [INFO] BookmarksSnapshot Startup total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-09-18 13:30:27.641: [INFO] Sync initialization duration: 10ms
+2026-09-18 14:28:29.294: [INFO] BookmarksSnapshot Shutdown total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-09-18 14:28:34.527: [INFO] CurrentProfilePath: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-18 14:28:34.527: [INFO] Profiles total count: 1
+2026-09-18 14:28:34.527: [INFO] Profile: name=个人 path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-09-18T14:15:50.810Z
+2026-09-18 14:28:34.527: [INFO] LastUsedProfileDir: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-18 14:28:34.527: [INFO] MostRecentlyActiveProfile: name=个人 path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-09-18T14:15:50.810Z
+2026-09-18 14:28:34.527: [INFO] VisibilityChanged: 0
+2026-09-18 14:28:34.549: [INFO] OnDoneLoading sync enabled: 1
+2026-09-18 14:28:34.549: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 14:28:34.549: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 14:28:34.549: [INFO] BookmarksSnapshot Startup total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-09-18 14:28:34.822: [INFO] Sync initialization duration: 13ms
+2026-09-18 15:09:16.957: [INFO] VisibilityChanged: 0
+2026-09-18 15:51:21.441: [INFO] VisibilityChanged: 0
+2026-09-18 16:21:24.176: [INFO] BookmarksSnapshot Shutdown total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-09-25 04:52:12.076: [INFO] CurrentProfilePath: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-25 04:52:12.076: [INFO] Profiles total count: 1
+2026-09-25 04:52:12.076: [INFO] Profile: name=Personal path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-09-18T16:21:18.227Z
+2026-09-25 04:52:12.076: [INFO] LastUsedProfileDir: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-25 04:52:12.076: [INFO] MostRecentlyActiveProfile: name=Personal path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-09-18T16:21:18.227Z
+2026-09-25 04:52:12.076: [INFO] VisibilityChanged: 0
+2026-09-25 04:52:12.175: [INFO] OnDoneLoading sync enabled: 1
+2026-09-25 04:52:12.175: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 04:52:12.175: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 04:52:12.175: [INFO] BookmarksSnapshot Startup total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-09-25 04:52:15.311: [INFO] Sync initialization duration: 89ms
+2026-09-25 06:16:29.660: [INFO] CurrentProfilePath: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-25 06:16:29.660: [INFO] Profiles total count: 1
+2026-09-25 06:16:29.660: [INFO] Profile: name=Personal path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-09-25T04:52:18.536Z
+2026-09-25 06:16:29.660: [INFO] LastUsedProfileDir: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-25 06:16:29.660: [INFO] MostRecentlyActiveProfile: name=Personal path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-09-25T04:52:18.536Z
+2026-09-25 06:16:29.660: [INFO] VisibilityChanged: 0
+2026-09-25 06:16:29.725: [INFO] OnDoneLoading sync enabled: 1
+2026-09-25 06:16:29.725: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 06:16:29.725: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 06:16:29.725: [INFO] BookmarksSnapshot Startup total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-09-25 06:16:33.666: [INFO] Sync initialization duration: 1249ms
+2026-09-25 09:09:02.695: [INFO] CurrentProfilePath: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-25 09:09:02.695: [INFO] Profiles total count: 1
+2026-09-25 09:09:02.695: [INFO] Profile: name=Personal path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-09-25T06:17:34.309Z
+2026-09-25 09:09:02.695: [INFO] LastUsedProfileDir: /home/yaojiale/.config/microsoft-edge/Default
+2026-09-25 09:09:02.695: [INFO] MostRecentlyActiveProfile: name=Personal path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-09-25T06:17:34.309Z
+2026-09-25 09:09:02.695: [INFO] VisibilityChanged: 0
+2026-09-25 09:09:02.717: [INFO] OnDoneLoading sync enabled: 1
+2026-09-25 09:09:02.717: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-25 09:09:02.717: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-25 09:09:02.717: [INFO] BookmarksSnapshot Startup total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-09-25 09:09:04.406: [INFO] Sync initialization duration: 12ms
+2026-10-30 16:47:01.484: [INFO] CurrentProfilePath: /home/yaojiale/.config/microsoft-edge/Default
+2026-10-30 16:47:01.484: [INFO] Profiles total count: 1
+2026-10-30 16:47:01.484: [INFO] Profile: name=Personal path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-10-22T13:46:55.213Z
+2026-10-30 16:47:01.484: [INFO] LastUsedProfileDir: /home/yaojiale/.config/microsoft-edge/Default
+2026-10-30 16:47:01.484: [INFO] MostRecentlyActiveProfile: name=Personal path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-10-22T13:46:55.213Z
+2026-10-30 16:47:01.484: [INFO] VisibilityChanged: 0
+2026-10-30 16:47:01.551: [INFO] OnDoneLoading sync enabled: 1
+2026-10-30 16:47:01.551: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-30 16:47:01.551: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-30 16:47:01.551: [INFO] BookmarksSnapshot Startup total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-10-30 16:47:11.519: [INFO] BookmarksSnapshot Shutdown total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-10-30 16:48:41.517: [INFO] CurrentProfilePath: /home/yaojiale/.config/microsoft-edge/Default
+2026-10-30 16:48:41.517: [INFO] Profiles total count: 1
+2026-10-30 16:48:41.517: [INFO] Profile: name=个人 path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-10-30T16:47:11.301Z
+2026-10-30 16:48:41.517: [INFO] LastUsedProfileDir: /home/yaojiale/.config/microsoft-edge/Default
+2026-10-30 16:48:41.517: [INFO] MostRecentlyActiveProfile: name=个人 path=/home/yaojiale/.config/microsoft-edge/Default lastActive=2026-10-30T16:47:11.301Z
+2026-10-30 16:48:41.517: [INFO] VisibilityChanged: 0
+2026-10-30 16:48:41.543: [INFO] OnDoneLoading sync enabled: 1
+2026-10-30 16:48:41.543: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-30 16:48:41.543: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-30 16:48:41.543: [INFO] BookmarksSnapshot Startup total=200 bar=127 other=0 mobile=74 showBar=0 showBarNTP=0
+2026-10-30 16:48:47.190: [INFO] Sync initialization duration: 2477ms
+2026-10-30 16:49:26.978: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:49:26.978: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:49:26.978: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:49:26.978: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:49:26.978: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:49:26.978: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:49:26.979: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:49:26.979: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:49:26.979: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:49:26.979: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:49:26.979: [INFO] BookmarkNodeMoved
+2026-10-30 16:49:26.979: [INFO] BookmarkNodeAdded, ABU: 0
+2026-10-30 16:50:18.845: [INFO] BookmarksSnapshot Shutdown total=211 bar=136 other=0 mobile=76 showBar=0 showBarNTP=0

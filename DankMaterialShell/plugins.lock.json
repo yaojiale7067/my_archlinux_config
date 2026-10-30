@@ -1,0 +1,35 @@
+{
+  "lockfileVersion": 1,
+  "plugins": {
+    "cavaVisualizer": {
+      "repo": "https://github.com/ernestowgg/cava-visualizer",
+      "commit": "2d08bef95bc7cd170ad5730a27791c9af6d80a52"
+    },
+    "githubHeatmapPlus": {
+      "repo": "https://github.com/maxlen727/DMS-GitHub_HeatMap_Plus",
+      "commit": "471961c0539099ebdbbc6ebc05931e30cd818a39"
+    },
+    "lyricsOnPanel": {
+      "repo": "https://github.com/KangweiZhu/lyrics-on-panel",
+      "path": "dms",
+      "commit": "7aab0a1955f4e79cffd663823e3d1c6933f7dd2b"
+    },
+    "mediaPlayer": {
+      "repo": "https://github.com/arrifat346afs/mediaPlayer",
+      "commit": "56ec160ed3fe32ad55b920ff462727d918b6eb51"
+    },
+    "mpvpaper": {
+      "repo": "https://github.com/tokisak1kurum1/mpvpaper-plugin",
+      "commit": "84776f6a7c53c6b3d1d8fde48b2a0b528dd3eedd"
+    },
+    "musicLyrics": {
+      "repo": "https://github.com/gasiyu/dms-plugin-musiclyrics",
+      "commit": "eee104c5107182b6a2caa383bac05d0c11b2974a"
+    },
+    "weatherArt": {
+      "repo": "https://github.com/viewerofall-labs/weather-viewer",
+      "path": "weatherArt",
+      "commit": "45ab60d67079d23b5c1fbac506aec825e9d3178c"
+    }
+  }
+}
