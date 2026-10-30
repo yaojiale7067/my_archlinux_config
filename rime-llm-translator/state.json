@@ -1,0 +1,182 @@
+{
+    "active_profile": "opencodezenshare",
+    "profiles": {
+        "opencodezenshare": {
+            "name": "opencodezen",
+            "api_url": "https://opencode.ai/zen/v1/chat/completions",
+            "api_key": "sk-Ol1VX7IiknlhWk5kMfOK6ltkB34qR7e3RkirMd5xhAxdGmuhsGvSMzCbLNLftDIM",
+            "model": "big-pickle",
+            "protocol": "auto",
+            "thinking": {}
+        },
+        "anthropic": {
+            "name": "Anthropic Claude",
+            "protocol": "anthropic",
+            "api_url": "https://api.anthropic.com/v1/messages",
+            "api_key": "",
+            "model": "",
+            "thinking": {}
+        },
+        "deepseek": {
+            "name": "DeepSeek",
+            "api_url": "https://api.deepseek.com/chat/completions",
+            "api_key": "",
+            "model": "deepseek-v4-flash",
+            "protocol": "auto",
+            "thinking": {}
+        },
+        "gemini": {
+            "name": "Gemini",
+            "api_url": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+            "api_key": "",
+            "model": "gemini-3.1-flash-lite-preview",
+            "protocol": "auto",
+            "thinking": {}
+        },
+        "xiaomi": {
+            "name": "Xiaomi",
+            "api_url": "https://token-plan-sgp.xiaomimimo.com/v1/chat/completions",
+            "api_key": "",
+            "model": "mimo-v2.5",
+            "protocol": "auto",
+            "thinking": {}
+        },
+        "minimax": {
+            "name": "Minimax",
+            "api_url": "https://api.minimaxi.com/v1/chat/completions",
+            "api_key": "",
+            "model": "MiniMax-M2.7",
+            "protocol": "auto",
+            "thinking": {}
+        },
+        "openrouter": {
+            "name": "OpenRouter",
+            "api_url": "https://openrouter.ai/api/v1/chat/completions",
+            "api_key": "",
+            "model": "",
+            "protocol": "auto",
+            "thinking": {}
+        },
+        "ollama": {
+            "name": "Ollama",
+            "api_url": "http://localhost:11434/v1/chat/completions",
+            "api_key": "ollama",
+            "model": "",
+            "protocol": "auto",
+            "thinking": {}
+        },
+        "lmstudio": {
+            "name": "LMStudio",
+            "api_url": "http://localhost:1234/v1/chat/completions",
+            "api_key": "",
+            "model": "",
+            "protocol": "auto",
+            "thinking": {}
+        },
+        "miyu": {
+            "name": "Miyu CLI",
+            "protocol": "miyu",
+            "api_url": "",
+            "api_key": "",
+            "binary": "miyu",
+            "model": "auto",
+            "thinking": {},
+            "source": "builtin"
+        }
+    },
+    "settings": {
+        "prompt": "# 职责\n你是中文拼音输入法引擎，把用户输入的拼音转换成通顺、合理的句子。拼音可能错拼、漏拼、乱序，请通过切分推理出正确的句子。\n# 注意点\n1. 准确还原语境中的英文词汇。\n2. 高度重视纯首字母简拼（如 mrfz=明日方舟）。\n3. 前后鼻音用户常常输错，按上下文判断正确的那个。\n4. 拼音里的数字读音按语境转成阿拉伯数字：yibai=100、san=3、erlingerliu=2026、shalujiantaer=杀戮尖塔2、kimierdianliu=kimi2.6。\n5. 按语境补上标点；遇到游戏、书籍、影视等作品名加《》。\n6. 收到「历史输入」时它只是上文参考，「当前输入」才是这次要处理的拼音。\n# 严格遵守\n1. 你的输出直接作为用户的打字内容上屏，绝对不许有前置客套话（如“好的，这是…”）或后置询问（如“需要我帮忙吗？”）。\n2. 保持精简，纯文本，不留多余空行，禁止使用 Markdown 的加粗（**）和标题（#）。\n# 附加信息\n- 用户使用的是 ArchLinux 系统。",
+        "ai_trigger": "vv",
+        "max_tokens": 4000,
+        "temperature": 0.1,
+        "connect_timeout": 2.0,
+        "max_time": 30.0,
+        "cli_timeout": 60.0,
+        "max_history_bytes": 120,
+        "miyu_prefix": "miyu:",
+        "miyu_session": "rime",
+        "miyu_timeout": 300.0,
+        "miyu_tools": false,
+        "miyu_prompt": "现在是用户通过 Rime 输入法在别的软件里打字时呼叫你：消息是汉语拼音，可能有错拼、漏拼、乱序，也可能夹着英文单词。请先按语境把拼音还原成中文，再回答。\n还原拼音时注意：\n1. 准确还原语境中的英文词汇。\n2. 高度重视纯首字母简拼（如 mrfz=明日方舟）。\n3. 重视前后鼻音区分，用户可能发给你错误的前后鼻音，你要通过前后的拼音上下文做出正确的判断。\n4. 拼音里出现数字的读音（如 yibai、san、erlingerliu、shalujiantaer、kimierdianliu），请结合语境理解成阿拉伯数字（如 100、3、2026、杀戮尖塔2、kimi2.6）。\n5. 拼音里没有标点，请按语境自行断句；遇到游戏、书籍、影视等作品名按《》理解。\n你的回答会直接作为用户的打字内容上屏，所以：只回答问题本身，尽量简短，纯文本单段，不用 Markdown、列表和标题，不要客套话，不要反问。",
+        "miyu_wait": 25.0,
+        "prefix_inject": "auto",
+        "vocab_inject": "auto",
+        "no_history_prefixes": "call,cmd,sh",
+        "adaptive_max_tokens": false,
+        "prompt_cache_mark": true,
+        "reply_cache_disk": true,
+        "reply_cache_min_len": 8,
+        "reply_cache_max": 500,
+        "prefix_position": "user_after",
+        "miyu_binary": ""
+    },
+    "prefixes": {
+        "rules": [
+            {
+                "key": "call",
+                "rule": "不要输出拼音转换的结果。把还原出的句子当作用户向你提出的问题，直接输出答案本身，不说废话。"
+            },
+            {
+                "key": "cn",
+                "rule": "正常执行拼音转换，输出中文。"
+            },
+            {
+                "key": "eng",
+                "rule": "只输出英文译文。不要输出中间的中文，不要附带原文。"
+            },
+            {
+                "key": "jp",
+                "rule": "只输出日文译文。不要输出中间的中文，不要附带原文。"
+            },
+            {
+                "key": "cmd",
+                "rule": "不要输出拼音转换的结果。把还原出的句子当作需求，只输出可直接运行的命令本身，前后不许有解释、说明或代码块标记。"
+            },
+            {
+                "key": "sh",
+                "rule": "不要输出拼音转换的结果。把还原出的句子当作需求，只输出 shell 脚本正文，不要用代码块包裹，不要任何解释。"
+            },
+            {
+                "key": "moe",
+                "rule": "把结果改写成猫娘的语气和用词，只输出改写后的结果。"
+            }
+        ],
+        "combo": "多个前缀可以组合，请举一反三：`jpmoe:`（或 `moejp:`）是日文译文加猫娘语气；`moesh:` 是生成脚本且注释用猫娘语气。多个语言前缀表示分行输出，每行一种语言，顺序与前缀顺序一致（`jpcnrs:` 即第一行日文、第二行中文、第三行俄文），行首不许出现“日文：”这类标签。前缀也可以拆开写，`jp:moe:` 等价于 `jpmoe:`。",
+        "fallback": "输入以 `{p}:` 开头，这是没有预先定义的前缀，请按它的字面含义处理：两个字母通常是语言代码（kr=韩语、fr=法语、de=德语、es=西班牙语、rs=俄语…），这时只输出该语言的译文，不要输出中间的中文。前缀本身绝不能出现在输出里。"
+    },
+    "vocab": {
+        "terms": [
+            "vibecoding",
+            "rime",
+            "bootloader",
+            "wm",
+            "de",
+            "dpi",
+            "niri",
+            "dms-shel",
+            "dms",
+            "noctalia"
+        ],
+        "mappings": {
+            "yyds": "永远的神",
+            "mrfz": "明日方舟",
+            "srwc": "是人我吃",
+            "yihuan": "异环",
+            "sm": "什么",
+            "zm": "怎么",
+            "ky": "可以",
+            "juele": "绝了"
+        }
+    },
+    "seeded_defaults": [
+        "anthropic",
+        "deepseek",
+        "gemini",
+        "lmstudio",
+        "minimax",
+        "ollama",
+        "opencodezenshare",
+        "openrouter",
+        "xiaomi"
+    ]
+}

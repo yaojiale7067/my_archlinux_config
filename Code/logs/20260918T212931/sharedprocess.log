@@ -1,0 +1,8 @@
+2026-09-18 21:29:32.753 [info] Started initializing default profile extensions in extensions installation folder. file:///home/yaojiale/.vscode/extensions
+2026-09-18 21:29:32.827 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/yaojiale/.vscode/extensions
+2026-09-18 21:29:53.241 [info] Getting Manifest... shalldie.background
+2026-09-18 21:29:53.619 [info] Installing extension: shalldie.background {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yaojiale/.vscode/extensions/extensions.json","path":"/home/yaojiale/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.137.0","date":"2026-09-08T13:43:59-07:00"}}
+2026-09-18 21:31:19.325 [info] Extension signature verification result for shalldie.background: Success. Internal Code: 0. Executed: true. Duration: 80819ms.
+2026-09-18 21:31:19.342 [info] Extracted extension to file:///home/yaojiale/.vscode/extensions/shalldie.background-3.1.0: shalldie.background
+2026-09-18 21:31:19.345 [info] Renamed to /home/yaojiale/.vscode/extensions/shalldie.background-3.1.0
+2026-09-18 21:31:19.350 [info] Extension installed successfully: shalldie.background vscode-userdata:/home/yaojiale/.vscode/extensions/extensions.json

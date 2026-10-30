@@ -1,0 +1,44 @@
+{
+  "musicLyrics": {
+    "enabled": true
+  },
+  "mpvpaper": {
+    "enabled": false,
+    "language": "zh_CN",
+    "videoLibrary": [
+      "/home/yaojiale/Videos/【哲风壁纸】Minecraft-我的世界.mp4",
+      "/home/yaojiale/Videos/【哲风壁纸】win11娘-Windows.mp4",
+      "/home/yaojiale/Videos/【哲风壁纸】下雨-二次元.mp4",
+      "/home/yaojiale/Videos/【哲风壁纸】OS娘-Q版.mp4"
+    ],
+    "restartInterval": 30,
+    "monitorVideos": {
+      "DP-2": "/home/yaojiale/Videos/【哲风壁纸】下雨-二次元.mp4"
+    },
+    "videoSettings": {
+      "/home/yaojiale/Videos/【哲风壁纸】Minecraft-我的世界.mp4": {
+        "hwdec": "auto"
+      }
+    }
+  },
+  "lyricsOnPanel": {
+    "enabled": true
+  },
+  "githubHeatmapPlus": {
+    "enabled": true,
+    "username": "yaojiale7067",
+    "refreshInterval": 300,
+    "showNotifications": true,
+    "followThemeColor": false,
+    "pillShowSingleDay": false,
+    "pillSquareSize": 10,
+    "pillSpacing": 3,
+    "showDisplayName": false,
+    "desktopBackgroundOpacity": 70,
+    "desktopSquareSize": 11,
+    "desktopSquareSpacing": 3
+  },
+  "weatherArt": {
+    "enabled": false
+  }
+}
